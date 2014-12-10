@@ -7,14 +7,14 @@ import java.util.*;
  * @version (1)
  */
 public class Dienblad {
-  private ArrayList<Artikel> artikelen;
+  private Stack<Artikel> artikelen;
   private String dienblad;
   private String artikel;
   /**
    * Constructor
    */
   public Dienblad() {
-    artikelen = new ArrayList<Artikel>();
+    artikelen = new Stack<Artikel>();
   }
 
   /**

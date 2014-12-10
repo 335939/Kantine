@@ -8,13 +8,13 @@ import java.util.*;
  */
 public class KassaRij 
 {
-    private ArrayList<Persoon> mensen;
+    private LinkedList<Persoon> mensen;
 
     /**
      * Constructor
      */
     public KassaRij() {
-        mensen = new ArrayList<Persoon>();
+        mensen = new LinkedList<Persoon>();
     }
 
     /**
