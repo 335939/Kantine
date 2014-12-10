@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dienblad()
+comment0.text=\n\ Constructor\n
+comment1.params=artikel
+comment1.target=void\ voegToe(Artikel)
+comment1.text=\n\ Methode\ om\ artikel\ aan\ dienblad\ toe\ te\ voegen\n\ @param\ artikel\n
+comment2.params=
+comment2.target=int\ getAantalArtikelen()
+comment2.text=\n\ Methode\ om\ aantal\ artikelen\ op\ dienblad\ te\ tellen\n\ @return\ Het\ aantal\ artikelen\ \n
+comment3.params=
+comment3.target=double\ getTotaalPrijs()
+comment3.text=\n\ Methode\ om\ de\ totaalprijs\ van\ de\ artikelen\ \n\ op\ dienblad\ uit\ te\ rekenen\n\ @return\ De\ totaalprijs\n
+numComments=4

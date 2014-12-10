@@ -1,0 +1,53 @@
+#BlueJ class context
+comment0.params=persoonBSN\ persoonvoornaam\ persoonachternaam\ persoondag\ persoonmaand\ persoonjaar\ persoongeslacht
+comment0.target=Persoon(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ char)
+comment0.text=\ \n\ Hiermee\ worden\ alle\ velden\ ingesteld\ wanneer\ dit\ object\ \n\ gemaakt\ wordt.\ \n\ geslacht\:\ man\ \=\ 1\ en\ vrouw\ \=\ 0\ \n
+comment1.params=
+comment1.target=Persoon()
+comment1.text=\ \n\ Hiermee\ worden\ alle\ velden\ ingesteld\ wanneer\ dit\ object\ \n\ gemaakt\ wordt.\ \n\ geslacht\:\ man\ \=\ 1\ en\ vrouw\ \=\ 0\ \n
+comment10.params=
+comment10.target=java.lang.String\ getVoornaam()
+comment10.text=\n\ Getter\ voor\ Voornaam\n\ @return\ Voornaam.\ \n
+comment11.params=
+comment11.target=java.lang.String\ getAchternaam()
+comment11.text=\n\ Getter\ voor\ Achternaam\n\ @return\ Achternaam.\ \n
+comment12.params=
+comment12.target=int\ getBSN()
+comment12.text=\n\ Getter\ voor\ BSN\n\ @return\ BSN.\ \n
+comment13.params=persoon
+comment13.target=void\ pakDienblad(Dienblad)
+comment13.text=\n\ Methode\ om\ dienblad\ te\ koppelen\ aan\ een\ persoon\n\ @param\ dienblad\n
+comment14.params=artikel
+comment14.target=void\ pakArtikel(Artikel)
+comment14.text=\n\ Methode\ om\ artikel\ te\ pakken\ en\ te\ plaatsen\ op\ het\ dienblad\n\ @param\ artikel\n
+comment15.params=
+comment15.target=double\ getTotaalPrijs()
+comment15.text=\n\ Methode\ om\ de\ totaalprijs\ van\ de\ artikelen\ \n\ op\ dienblad\ dat\ bij\ de\ persoon\ hoort\ uit\ te\ rekenen\n\ @return\ De\ totaalprijs\n
+comment16.params=
+comment16.target=int\ getAantalArtikelen()
+comment16.text=\n\ Methode\ om\ het\ aantal\ artikelen\ op\ dienblad\ dat\ bij\ de\ \n\ persoon\ hoort\ te\ tellen\n\ @return\ Het\ aantal\ artikelen\n
+comment2.params=bsn
+comment2.target=void\ setBSN(int)
+comment2.text=\n\ Verander\ het\ BSN.\n
+comment3.params=voornaam
+comment3.target=void\ setVoornaam(java.lang.String)
+comment3.text=\n\ Verander\ de\ Voornaam.\n
+comment4.params=achternaam
+comment4.target=void\ setAchternaam(java.lang.String)
+comment4.text=\n\ Verander\ de\ Achternaam.\n
+comment5.params=dag\ maand\ jaar
+comment5.target=void\ setGeboortedatum(int,\ int,\ int)
+comment5.text=\n\ Verander\ de\ Geboortedatum.\n
+comment6.params=geslacht
+comment6.target=void\ setGeslacht(char)
+comment6.text=\n\ Verander\ het\ Geslacht.\n\ Man\ \=\ 1\ \ \ \ en\ \ \ \ Vrouw\ \=\ 0\n
+comment7.params=
+comment7.target=void\ DrukAf()
+comment7.text=\n\ laat\ de\ waarden\ van\ de\ instantievariabelen\ zien.\n
+comment8.params=
+comment8.target=java.lang.String\ getGeboorteDatum()
+comment8.text=\n\ Getter\ voor\ geboortedatum\n\ @return\ Geboortedatum\ \n
+comment9.params=
+comment9.target=java.lang.String\ getGeslacht()
+comment9.text=\n\ Getter\ voor\ geslacht\n\ @return\ geslacht.\ \n
+numComments=17
