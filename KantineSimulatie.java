@@ -1,5 +1,5 @@
 /**k
- * Deze Klasse maakt een Kantine aan.
+ * Deze Klasse maakt een Kantine aan.hallo
  * 
  * Van:  Casper Wolff en Erik Hoekstra
  * Student nummer: (Casper) 308231   en    (Erik) 335939 
