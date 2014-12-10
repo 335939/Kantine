@@ -13,5 +13,5 @@ comment3.target=boolean\ isErEenRij()
 comment3.text=\n\ Methode\ kijkt\ of\ er\ personen\ in\ de\ rij\ staan.\ \n\ @return\ Of\ er\ wel\ of\ geen\ rij\ bestaat\n
 comment4.params=
 comment4.target=void\ verwijdereersteuitrij()
-comment4.text=\n\ Methode\ kijkt\ of\ er\ personen\ in\ de\ rij\ staan.\ \n\ @return\ Of\ er\ wel\ of\ geen\ rij\ bestaat\n
+comment4.text=\n\ Methode\ verwijderd\ de\ eerste\ persoon\ uit\ de\ kassarij\n
 numComments=5

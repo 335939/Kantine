@@ -25,7 +25,7 @@ public class Kassa {
      * @param persoon die moet afrekenen
      */
     public void rekenAf(Persoon persoon) {      
-        
+
         this.persoon = persoon;
 
         boolean rijisleeg = kassarij.isErEenRij();

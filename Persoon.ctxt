@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=persoonBSN\ persoonvoornaam\ persoonachternaam\ persoondag\ persoonmaand\ persoonjaar\ persoongeslacht
 comment0.target=Persoon(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ char)
-comment0.text=\ \n\ Hiermee\ worden\ alle\ velden\ ingesteld\ wanneer\ dit\ object\ \n\ gemaakt\ wordt.\ \n\ geslacht\:\ man\ \=\ 1\ en\ vrouw\ \=\ 0\ \n
+comment0.text=\ \n\ Hiermee\ worden\ alle\ velden\ ingesteld\ wanneer\ dit\ object\ \n\ gemaakt\ wordt.\ \n
 comment1.params=
 comment1.target=Persoon()
 comment1.text=\ \n\ Hiermee\ worden\ alle\ velden\ ingesteld\ wanneer\ dit\ object\ \n\ gemaakt\ wordt.\ \n\ geslacht\:\ man\ \=\ 1\ en\ vrouw\ \=\ 0\ \n

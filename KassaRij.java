@@ -49,11 +49,9 @@ public class KassaRij
     }
 
     /**
-     * Methode kijkt of er personen in de rij staan. 
-     * @return Of er wel of geen rij bestaat
+     * Methode verwijderd de eerste persoon uit de kassarij
      */
     public void verwijdereersteuitrij() {
         mensen.remove(0);
     }   
-
 }

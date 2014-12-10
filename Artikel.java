@@ -37,7 +37,7 @@ public class Artikel
     }
 
     /**
-     * Veranderd de naam en de prijs van het Artikel
+     * Veranderd de naam van het Artikel
      */
     public void setNaam(String replacementNaam)
     {
@@ -45,7 +45,7 @@ public class Artikel
     }
 
     /**
-     * Veranderd de naam en de prijs van het Artikel
+     * Veranderd de prijs van het Artikel
      */
     public void setPrijs(int replacementPrijs)
     {

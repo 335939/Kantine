@@ -20,7 +20,6 @@ class Persoon {
     /** 
      * Hiermee worden alle velden ingesteld wanneer dit object 
      * gemaakt wordt. 
-     * geslacht: man = 1 en vrouw = 0 
      */  
     public Persoon(int persoonBSN, String persoonvoornaam, String persoonachternaam,   
     int persoondag, int persoonmaand, int persoonjaar, char persoongeslacht)  
@@ -145,9 +144,9 @@ class Persoon {
         
         if(uitkomst == false)
         {
-            dag = 0;  
-            maand = 0;  
-            jaar = 0;   
+            this.dag = 0;  
+            this.maand = 0;  
+            this.jaar = 0;   
         }else if(uitkomst == true)
         {
             this.dag = dag;  
