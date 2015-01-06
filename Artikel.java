@@ -9,12 +9,12 @@
 public class Artikel
 {
     private String naam;
-    private int prijs;
+    private double prijs;
 
     /**
      * Constructor
      */
-    public Artikel(String artikelnaam, int artikelprijs)
+    public Artikel(String artikelnaam, double artikelprijs)
     {
         naam = artikelnaam;
         prijs = artikelprijs;
@@ -31,7 +31,7 @@ public class Artikel
     /**
      * Getter voor Artikel prijs.
      */
-    public  int  getArtikelprijs()
+    public  double  getArtikelprijs()
     {
         return prijs;
     }
@@ -47,7 +47,7 @@ public class Artikel
     /**
      * Veranderd de prijs van het Artikel
      */
-    public void setPrijs(int replacementPrijs)
+    public void setPrijs(double replacementPrijs)
     {
         prijs = replacementPrijs;
     }

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=KantineSimulatie()
-comment0.text=\n\ Constructor\n
-comment1.params=dagen
-comment1.target=void\ simuleer(int)
-comment1.text=\n\ Deze\ methode\ simuleert\ een\ aantal\ dagen\ in\ het\ \n\ verloop\ van\ de\ kantine\n\ @param\ dagen\n
-numComments=2
